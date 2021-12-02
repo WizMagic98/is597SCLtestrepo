@@ -1,2 +1,8 @@
-# is597SCLtestrepo
-Just a demo repo for making a class recording
+# IS597SCLtestrepo
+Just a demo repo for making a class recording.
+
+I'll be adding more to this repo as we learn more about the features.
+
+## Author
+
+Zeyu Wang
