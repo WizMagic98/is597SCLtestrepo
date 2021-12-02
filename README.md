@@ -5,4 +5,4 @@ I'll be adding more to this repo as we learn more about the features.
 
 ## Author
 
-Zeyu Wang
+Zeyu Wang(UIUC)
